@@ -1,0 +1,4 @@
+# Fulfillment Control Tower
+# External dependencies used by the application modules
+streamlit>=1.40,<2.0
+pandas>=2.2,<3.0
